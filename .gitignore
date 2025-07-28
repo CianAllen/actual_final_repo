@@ -1,0 +1,17 @@
+# Large video files
+*.mp4
+*.avi
+*.mov
+*.mkv
+
+# Large model files
+bert_specialist_classifier/
+*.safetensors
+
+# Large data files (if needed)
+*.zip
+*.tar.gz
+
+# OS generated files
+.DS_Store
+Thumbs.db
